@@ -5,7 +5,7 @@ export function StorySection() {
     <section className="story-section" id="historia">
       <div className="story-visual" data-reveal="left">
         <img
-          src="/assets/hero-mibilisq.webp"
+          src="./assets/hero-mibilisq.webp"
           alt="Mesa com alimentos artesanais da Mibilisq"
           data-parallax="0.08"
         />
