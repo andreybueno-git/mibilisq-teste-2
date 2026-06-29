@@ -18,7 +18,7 @@ export function Header({ cartCount, onOpenCart }) {
       <a className="brand" href="#inicio" aria-label="Mibilisq — início">
         <img
           className="brand-logo"
-          src="/assets/logo-mibilisq-oficial.webp"
+          src="./assets/logo-mibilisq-oficial.webp"
           alt=""
         />
       </a>

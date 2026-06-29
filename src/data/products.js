@@ -8,7 +8,7 @@ export const products = [
     price: 18.9,
     description:
       "Fatia úmida, cobertura cremosa e sabor profundo de cacau.",
-    image: "/assets/produto-bolo-cacau.webp",
+    image: "./assets/produto-bolo-cacau.webp",
     labels: ["Sem glúten", "Sem leite"],
   },
   {
@@ -18,7 +18,7 @@ export const products = [
     price: 16,
     description:
       "Casca dourada, miolo macio e aquele cheiro bom de fornada.",
-    image: "/assets/produto-pao-artesanal.webp",
+    image: "./assets/produto-pao-artesanal.webp",
     labels: ["Sem glúten", "Artesanal"],
   },
   {
@@ -28,7 +28,7 @@ export const products = [
     price: 9.5,
     description:
       "Crocante nas bordas, macio por dentro e cheio de castanhas.",
-    image: "/assets/produto-cookie.webp",
+    image: "./assets/produto-cookie.webp",
     labels: ["Sem glúten", "Sem leite"],
   },
   {
@@ -38,7 +38,7 @@ export const products = [
     price: 12,
     description:
       "Massa leve, exterior dourado e recheio generoso e cremoso.",
-    image: "/assets/produto-salgado.webp",
+    image: "./assets/produto-salgado.webp",
     labels: ["Sem glúten", "Feita à mão"],
   },
 ];

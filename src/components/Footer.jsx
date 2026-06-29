@@ -5,7 +5,7 @@ export function Footer() {
     <footer className="site-footer">
       <div className="footer-brand">
         <img
-          src="/assets/logo-mibilisq-oficial.webp"
+          src="./assets/logo-mibilisq-oficial.webp"
           alt="Mibilisq — livre de glúten e outros"
         />
       </div>

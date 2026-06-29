@@ -17,7 +17,7 @@ export function LocationSection() {
       <div className="location-layout">
         <div className="map-panel" data-reveal="left">
           <img
-            src="/assets/mapa-mibilisq.png"
+            src="./assets/mapa-mibilisq.png"
             alt="Mapa do Google mostrando a localização da Mibilisq em Palmas"
           />
           <a

@@ -48,7 +48,7 @@ export function Hero() {
       >
         <div className="hero-frame">
           <img
-            src="/assets/hero-mibilisq.webp"
+            src="./assets/hero-mibilisq.webp"
             alt="Bolo de cacau, pão, biscoitos e salgados artesanais"
             data-parallax="0.06"
           />
@@ -66,13 +66,13 @@ export function Hero() {
 
       <div className="hero-scraps" aria-hidden="true">
         <span className="scrap scrap--wheat">
-          <img src="/assets/scrap-wheat.png" alt="" data-parallax="0.24" />
+          <img src="./assets/scrap-wheat.png" alt="" data-parallax="0.24" />
         </span>
         <span className="scrap scrap--ribbon">
-          <img src="/assets/scrap-ribbon.png" alt="" data-parallax="0.34" />
+          <img src="./assets/scrap-ribbon.png" alt="" data-parallax="0.34" />
         </span>
         <span className="scrap scrap--seal">
-          <img src="/assets/scrap-seal.png" alt="" data-parallax="0.14" />
+          <img src="./assets/scrap-seal.png" alt="" data-parallax="0.14" />
         </span>
       </div>
     </section>

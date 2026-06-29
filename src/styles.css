@@ -33,7 +33,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   background-color: var(--paper);
-  background-image: url("/assets/textura-papel.webp");
+  background-image: url("./assets/textura-papel.webp");
   background-size: 460px;
   color: var(--ink);
   -webkit-font-smoothing: antialiased;
@@ -914,7 +914,7 @@ p {
   padding: 26px;
   border-left: 1px solid var(--ink);
   background-color: var(--paper);
-  background-image: url("/assets/textura-papel.webp");
+  background-image: url("./assets/textura-papel.webp");
   overflow-y: auto;
 }
 
